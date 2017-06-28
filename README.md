@@ -13,3 +13,5 @@ I'm currently experimenting with a function wrapper that can output to html and 
 # an example pull request
 
 please ignore
+
+# You can also directly edit this on Github!
