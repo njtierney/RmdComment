@@ -9,3 +9,7 @@ The icon comes courtesy of [Nick Roach at the Elegant Themes Blog](https://www.e
 
 #Pdf/Html version
 I'm currently experimenting with a function wrapper that can output to html and pdf interchangably. `/r/rmd_comment.R` will work, provided includes and headers are setup as per `/test/pdf_html_test.Rmd`
+
+# an example pull request
+
+please ignore
